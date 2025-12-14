@@ -7,6 +7,8 @@ import org.testng.annotations.Test;
 
 public class LoginTest extends BaseTest{
 
+    //TESTING TRIGER CI/CD
+    //TRIGER PIPELINE TESTING
     //test aja trigger pipeline
     @Test(groups = {"smoke"})
     public void testLogin() {
